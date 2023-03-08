@@ -1,7 +1,8 @@
-package com.example.voicecalories
+package com.example.voicecalories.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.voicecalories.R
 import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
 
