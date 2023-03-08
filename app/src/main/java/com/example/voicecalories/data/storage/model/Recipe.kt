@@ -1,4 +1,4 @@
-package com.example.voicecalories.data.model
+package com.example.voicecalories.data.storage.model
 
 import com.google.gson.annotations.SerializedName
 

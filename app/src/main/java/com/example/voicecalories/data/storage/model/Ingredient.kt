@@ -1,4 +1,4 @@
-package com.example.voicecalories.data.model
+package com.example.voicecalories.data.storage.model
 
 data class Ingredient(
     val id: Int,
